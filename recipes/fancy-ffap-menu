@@ -1,0 +1,4 @@
+(fancy-ffap-menu
+ :fetcher codeberg
+ :repo "kakafarm/emacs-fancy-ffap-menu"
+ :commit "3b6839b488fc3dceb9854b1c97ad13ca58c2868e")
